@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inventario.Modelos/1.0.0": {
+        "dependencies": {
+          "inventario.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "inventario.Modelos.dll": {}
+        }
+      },
+      "inventario.Utilidades/1.0.0": {
+        "runtime": {
+          "inventario.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inventario.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "inventario.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -4,14 +4,161 @@
     "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj": {}
   },
   "projects": {
-    "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj": {
+    "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.AccesoDatos\\inventario.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj",
-        "projectName": "TiendaInventarioN7",
-        "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj",
+        "projectUniqueName": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.AccesoDatos\\inventario.AccesoDatos.csproj",
+        "projectName": "inventario.AccesoDatos",
+        "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.AccesoDatos\\inventario.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-        "outputPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\obj\\",
+        "outputPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj": {
+                "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj"
+              },
+              "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj": {
+                "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj",
+        "projectName": "inventario.Modelos",
+        "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj",
+        "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
+        "outputPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj": {
+                "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj",
+        "projectName": "inventario.Utilidades",
+        "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
+        "outputPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +190,75 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj",
+        "projectName": "TiendaInventarioN7",
+        "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\TiendaInventarioN7.csproj",
+        "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
+        "outputPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\TiendaInventarioN7\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.AccesoDatos\\inventario.AccesoDatos.csproj": {
+                "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.AccesoDatos\\inventario.AccesoDatos.csproj"
+              },
+              "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj": {
+                "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Modelos\\inventario.Modelos.csproj"
+              },
+              "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj": {
+                "projectPath": "D:\\paginaweb con c#\\TiendaInventarioN7\\inventario.Utilidades\\inventario.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -56,6 +272,10 @@
               "target": "Package",
               "version": "[6.0.26, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.26, )"
@@ -63,6 +283,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.26, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [

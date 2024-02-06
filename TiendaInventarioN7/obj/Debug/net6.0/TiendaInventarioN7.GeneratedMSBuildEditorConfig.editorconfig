@@ -11,7 +11,7 @@ build_property.RootNamespace = TiendaInventarioN7
 build_property.ProjectDir = D:\paginaweb con c#\TiendaInventarioN7\TiendaInventarioN7\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\paginaweb con c#\TiendaInventarioN7\TiendaInventarioN7
 build_property._RazorSourceGeneratorDebug = 
 
@@ -19,12 +19,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Areas/Inventario/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Areas/Inventario/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Areas/Inventario/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Areas/Inventario/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/paginaweb con c\#/TiendaInventarioN7/TiendaInventarioN7/Views/Shared/Error.cshtml]

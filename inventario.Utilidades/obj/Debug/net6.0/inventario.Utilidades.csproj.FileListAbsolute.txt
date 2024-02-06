@@ -1,0 +1,12 @@
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\bin\Debug\net6.0\inventario.Utilidades.deps.json
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\bin\Debug\net6.0\inventario.Utilidades.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\bin\Debug\net6.0\inventario.Utilidades.pdb
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.csproj.AssemblyReference.cache
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.AssemblyInfoInputs.cache
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.AssemblyInfo.cs
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.csproj.CoreCompileInputs.cache
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\refint\inventario.Utilidades.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\inventario.Utilidades.pdb
+D:\paginaweb con c#\TiendaInventarioN7\inventario.Utilidades\obj\Debug\net6.0\ref\inventario.Utilidades.dll

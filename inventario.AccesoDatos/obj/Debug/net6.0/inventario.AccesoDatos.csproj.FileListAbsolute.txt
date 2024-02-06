@@ -1,0 +1,17 @@
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.AccesoDatos.deps.json
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.AccesoDatos.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.AccesoDatos.pdb
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.Modelos.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.Utilidades.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.Modelos.pdb
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\bin\Debug\net6.0\inventario.Utilidades.pdb
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.csproj.AssemblyReference.cache
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.AssemblyInfoInputs.cache
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.AssemblyInfo.cs
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.csproj.CopyComplete
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\refint\inventario.AccesoDatos.dll
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\inventario.AccesoDatos.pdb
+D:\paginaweb con c#\TiendaInventarioN7\inventario.AccesoDatos\obj\Debug\net6.0\ref\inventario.AccesoDatos.dll
