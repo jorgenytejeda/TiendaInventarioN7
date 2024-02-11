@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Datos de los productos que se integraran al inventario
+
 namespace inventario.AccesoDatos.Configuracion
 {
     public class BodegaConfiguracion : IEntityTypeConfiguration<Bodega>

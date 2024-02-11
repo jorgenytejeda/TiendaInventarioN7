@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaInventarioN7", "TiendaInventarioN7\TiendaInventarioN7.csproj", "{765F166B-2E9D-45AD-8D25-A221FCBEE9B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaInventarioN7", "TiendaInventarioN7\TiendaInventarioN7.csproj", "{765F166B-2E9D-45AD-8D25-A221FCBEE9B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventario.AccesoDatos", "inventario.AccesoDatos\inventario.AccesoDatos.csproj", "{6653FC41-36D0-4C17-8D98-9BB487830210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inventario.AccesoDatos", "inventario.AccesoDatos\inventario.AccesoDatos.csproj", "{6653FC41-36D0-4C17-8D98-9BB487830210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventario.Modelos", "inventario.Modelos\inventario.Modelos.csproj", "{65DA7188-B1DF-40E4-92AD-2930C2B2DFB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inventario.Modelos", "inventario.Modelos\inventario.Modelos.csproj", "{65DA7188-B1DF-40E4-92AD-2930C2B2DFB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventario.Utilidades", "inventario.Utilidades\inventario.Utilidades.csproj", "{94E532A6-B396-489A-A930-769D74CA5DB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inventario.Utilidades", "inventario.Utilidades\inventario.Utilidades.csproj", "{94E532A6-B396-489A-A930-769D74CA5DB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
